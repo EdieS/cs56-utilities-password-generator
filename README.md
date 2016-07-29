@@ -1,5 +1,5 @@
-cs56-Password-Generator
-=======================
+cs56-Password-Generator-lab-08
+==============================
 
 Contributors:
 
